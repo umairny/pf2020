@@ -31,6 +31,6 @@ $('#projects > li').click(function(e){
   $(this).addClass('clicked');
 });
 
-$('#projects > li > img').click(function(e){
-  $(this).addClass('clicked');
-});
+
+
+
